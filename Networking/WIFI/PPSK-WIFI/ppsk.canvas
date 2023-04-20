@@ -3,7 +3,7 @@
 		{"type":"group","id":"4120aab0072817ca","x":-800,"y":-720,"width":1540,"height":820,"label":"PPSK"},
 		{"type":"file","file":"Networking/WIFI/PPSK-WIFI/1 - freeradius-config.md","id":"11d9d2f1037bad5b","x":-320,"y":-680,"width":620,"height":760},
 		{"type":"file","file":"Networking/WIFI/PPSK-WIFI/2 - openwrt-config.md","id":"e7c34e293176eed1","x":320,"y":-680,"width":400,"height":400},
-		{"type":"file","file":"Networking/WIFI/PPSK-WIFI/0 - PPSK-WIFI.md","id":"32c38169e5ee9c1c","x":-780,"y":-680,"width":440,"height":720}
+		{"type":"file","file":"Networking/WIFI/PPSK-WIFI/README.md","id":"32c38169e5ee9c1c","x":-780,"y":-680,"width":440,"height":720}
 	],
 	"edges":[]
 }
